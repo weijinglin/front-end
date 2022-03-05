@@ -2,6 +2,7 @@ body{
     background:url('./login.jpg');
     background-repeat:no-repeat;
     background-size:100% auto;
+    background-attachment: scroll;
 }
 #title{
     width:30%;
@@ -11,6 +12,7 @@ body{
     text-align:center;
     background:#00000060;
     padding:20px 50px;
+    background-attachment: scroll;
     }
 #title h1{
     color:#fff;
